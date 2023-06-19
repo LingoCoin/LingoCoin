@@ -1,4 +1,4 @@
-### LINGO envisions bringing crypto to one billion people, stemming from our belief in crypto as a means for redistribution of wealth amongst the masses. We plan to build the most rewarding, most appealing, and most trustworthy utility token, for everyone. Lingo will unify the three key areas of its “secret sauce” by combining an unprecedented economic model, the first real world application designed for the mass market and a strong community.
+Lingo envisions bringing crypto to one billion people, stemming from our belief in crypto as a means for redistribution of wealth amongst the masses. We plan to build the most rewarding, most appealing, and most trustworthy utility token, for everyone. Lingo will unify the three key areas of its “secret sauce” by combining an unprecedented economic model, the first real world application designed for the mass market and a strong community.
 
 <!--
 **LingoCoin/LingoCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
